@@ -1,0 +1,52 @@
+Volume: 16308.85287 Bohr^3  (2416.72318 Angstrom^3)
+
+ Estimated density according to mass and volume (M/V):    1.5728 g/cm^3
+
+ Minimal value:    -57.84009 kcal/mol   Maximal value:     74.57270 kcal/mol
+
+ Overall surface area:        6579.96995 Bohr^2  (1842.57951 Angstrom^2)
+
+ Positive surface area:       3750.86877 Bohr^2  (1050.35038 Angstrom^2)
+
+ Negative surface area:       2829.10117 Bohr^2  ( 792.22913 Angstrom^2)
+
+ Overall average value:    0.00172311 a.u. (      1.08127 kcal/mol)
+
+ Positive average value:   0.01869861 a.u. (     11.73357 kcal/mol)
+
+ Negative average value:  -0.02078330 a.u. (    -13.04173 kcal/mol)
+
+ Overall variance (sigma^2_tot):  0.00053968 a.u.^2 (   212.51019 (kcal/mol)^2)
+
+ Positive variance:        0.00020442 a.u.^2 (     80.49491 (kcal/mol)^2)
+
+ Negative variance:        0.00033526 a.u.^2 (    132.01528 (kcal/mol)^2)
+
+ Balance of charges (nu):   0.23530605
+
+ Product of sigma^2_tot and nu:   0.00012699 a.u.^2 (   50.00493 (kcal/mol)^2)
+
+ Internal charge separation (Pi):   0.01939844 a.u. (     12.17272 kcal/mol)
+
+ Molecular polarity index (MPI):   0.53320537 eV (     12.29602 kcal/mol)
+
+ Nonpolar surface area (|ESP| <= 10 kcal/mol):    899.06 Angstrom^2  ( 48.79 %)
+
+ Polar surface area (|ESP| > 10 kcal/mol):        943.52 Angstrom^2  ( 51.21 %)
+
+      Begin        End       Center       Area         %
+    -70.0000    -60.0000    -65.0000      0.0000      0.0000
+    -60.0000    -50.0000    -55.0000     10.7469      0.5833
+    -50.0000    -40.0000    -45.0000     28.9235      1.5697
+    -40.0000    -30.0000    -35.0000     32.9161      1.7864
+    -30.0000    -20.0000    -25.0000     76.2364      4.1375
+    -20.0000    -10.0000    -15.0000    255.3407     13.8578
+    -10.0000      0.0000     -5.0000    388.0656     21.0610
+      0.0000     10.0000      5.0000    510.9941     27.7325
+     10.0000     20.0000     15.0000    405.5869     22.0119
+     20.0000     30.0000     25.0000     94.9028      5.1505
+     30.0000     40.0000     35.0000     23.8058      1.2920
+     40.0000     50.0000     45.0000      6.7210      0.3648
+     50.0000     60.0000     55.0000      4.6966      0.2549
+     60.0000     70.0000     65.0000      2.8922      0.1570
+ Sum:                                  1841.8285     99.9592

@@ -1,0 +1,40 @@
+                       :-) GROMACS - gmx rdf, 2018.8 (-:
+
+                            GROMACS is written by:
+     Emile Apol      Rossen Apostolov      Paul Bauer     Herman J.C. Berendsen
+    Par Bjelkmar    Aldert van Buuren   Rudi van Drunen     Anton Feenstra  
+  Gerrit Groenhof    Aleksei Iupinov   Christoph Junghans   Anca Hamuraru   
+ Vincent Hindriksen Dimitrios Karkoulis    Peter Kasson        Jiri Kraus    
+  Carsten Kutzner      Per Larsson      Justin A. Lemkul    Viveca Lindahl  
+  Magnus Lundborg   Pieter Meulenhoff    Erik Marklund      Teemu Murtola   
+    Szilard Pall       Sander Pronk      Roland Schulz     Alexey Shvetsov  
+   Michael Shirts     Alfons Sijbers     Peter Tieleman    Teemu Virolainen 
+ Christian Wennberg    Maarten Wolf   
+                           and the project leaders:
+        Mark Abraham, Berk Hess, Erik Lindahl, and David van der Spoel
+
+Copyright (c) 1991-2000, University of Groningen, The Netherlands.
+Copyright (c) 2001-2017, The GROMACS development team at
+Uppsala University, Stockholm University and
+the Royal Institute of Technology, Sweden.
+check out http://www.gromacs.org for more information.
+
+GROMACS is free software; you can redistribute it and/or modify it
+under the terms of the GNU Lesser General Public License
+as published by the Free Software Foundation; either version 2.1
+of the License, or (at your option) any later version.
+
+GROMACS:      gmx rdf, version 2018.8
+Executable:   /public3/home/sc51865/new/gromacs-2018.8/gromacs-install/bin/gmx
+Data prefix:  /public3/home/sc51865/new/gromacs-2018.8/gromacs-install
+Working dir:  /public3/home/sc51865/IAAmodeling_emulsion/IAA70
+Command line:
+  gmx rdf -f prod.xtc -s prod.tpr -ref 'name S63 S148 N57 N113 O67 O161 O162 O163 O156 O159 O167 O164 O165 O132 O158 H312 H66 H313' -sel 'name HW1 HW2 OW' -b 20000 -e 50000
+
+Reading file prod.tpr, VERSION 2018.8 (single precision)
+Reading file prod.tpr, VERSION 2018.8 (single precision)
+Reading frame       0 time    0.000   Reading frame       0 time 20000.000   Reading frame       1 time 20002.000   Reading frame       2 time 20004.000   Reading frame       3 time 20006.000   Reading frame       4 time 20008.000   Reading frame       5 time 20010.000   Reading frame       6 time 20012.000   Reading frame       7 time 20014.000   Reading frame       8 time 20016.000   Reading frame       9 time 20018.000   Reading frame      10 time 20020.000   Reading frame      11 time 20022.000   Reading frame      12 time 20024.000   Reading frame      13 time 20026.000   Reading frame      14 time 20028.000   Reading frame      15 time 20030.000   Reading frame      16 time 20032.000   Reading frame      17 time 20034.000   Reading frame      18 time 20036.000   Reading frame      19 time 20038.000   Reading frame      20 time 20040.000   Reading frame      30 time 20060.000   Reading frame      40 time 20080.000   Reading frame      50 time 20100.000   Reading frame      60 time 20120.000   Reading frame      70 time 20140.000   Reading frame      80 time 20160.000   Reading frame      90 time 20180.000   Reading frame     100 time 20200.000   Reading frame     110 time 20220.000   Reading frame     120 time 20240.000   Reading frame     130 time 20260.000   Reading frame     140 time 20280.000   Reading frame     150 time 20300.000   Reading frame     160 time 20320.000   Reading frame     170 time 20340.000   Reading frame     180 time 20360.000   Reading frame     190 time 20380.000   Reading frame     200 time 20400.000   Reading frame     300 time 20600.000   Reading frame     400 time 20800.000   Reading frame     500 time 21000.000   Reading frame     600 time 21200.000   Reading frame     700 time 21400.000   Reading frame     800 time 21600.000   Reading frame     900 time 21800.000   Reading frame    1000 time 22000.000   Reading frame    1100 time 22200.000   Reading frame    1200 time 22400.000   Reading frame    1300 time 22600.000   Reading frame    1400 time 22800.000   Reading frame    1500 time 23000.000   Reading frame    1600 time 23200.000   Reading frame    1700 time 23400.000   Reading frame    1800 time 23600.000   Reading frame    1900 time 23800.000   Reading frame    2000 time 24000.000   Reading frame    3000 time 26000.000   Reading frame    4000 time 28000.000   Reading frame    5000 time 30000.000   Reading frame    6000 time 32000.000   Reading frame    7000 time 34000.000   Reading frame    8000 time 36000.000   Reading frame    9000 time 38000.000   Reading frame   10000 time 40000.000   Reading frame   11000 time 42000.000   Reading frame   12000 time 44000.000   Reading frame   13000 time 46000.000   Reading frame   14000 time 48000.000   Reading frame   15000 time 50000.000   Last frame      15000 time 50000.000   
+Analyzed 15001 frames, last time 50000.000
+
+GROMACS reminds you: "Statistics: The only science that enables different experts using the same figures to draw different conclusions." (Evan Esar)
+

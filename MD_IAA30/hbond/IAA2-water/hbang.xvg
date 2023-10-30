@@ -1,0 +1,47 @@
+# This file was created Fri Jun  2 19:25:43 2023
+# Created by:
+#                      :-) GROMACS - gmx hbond, 2018.8 (-:
+# 
+# Executable:   /public3/home/sc51865/new/gromacs-2018.8/gromacs-install/bin/gmx
+# Data prefix:  /public3/home/sc51865/new/gromacs-2018.8/gromacs-install
+# Working dir:  /public3/home/sc51865/IAAmodeling_emulsion/IAA50
+# Command line:
+#   gmx hbond -f prod.xtc -s prod.tpr -n system.ndx -dist -ang -life -nhbdist -nomerge -hbn -b 500
+# gmx hbond is part of G R O M A C S:
+#
+# GRowing Old MAkes el Chrono Sweat
+#
+@    title "Hydrogen Bond Distribution"
+@    xaxis  label "Hydrogen - Donor - Acceptor Angle (\SO\N)"
+@    yaxis  label ""
+@TYPE xy
+       0.5 0.00411764
+       1.5  0.0121534
+       2.5  0.0197113
+       3.5  0.0269396
+       4.5  0.0333603
+       5.5    0.03863
+       6.5  0.0430186
+       7.5  0.0465576
+       8.5  0.0492602
+       9.5  0.0507088
+      10.5   0.051351
+      11.5  0.0511568
+      12.5  0.0503573
+      13.5   0.048682
+      14.5  0.0470136
+      15.5  0.0451975
+      16.5   0.042609
+      17.5   0.040139
+      18.5  0.0371126
+      19.5  0.0347402
+      20.5  0.0321368
+      21.5   0.029599
+      22.5  0.0272927
+      23.5  0.0250408
+      24.5  0.0229585
+      25.5  0.0210431
+      26.5  0.0193918
+      27.5  0.0179645
+      28.5  0.0164711
+      29.5  0.0152854

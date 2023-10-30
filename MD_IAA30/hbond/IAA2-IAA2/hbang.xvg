@@ -1,0 +1,47 @@
+# This file was created Fri Jun  2 18:44:19 2023
+# Created by:
+#                      :-) GROMACS - gmx hbond, 2018.8 (-:
+# 
+# Executable:   /public3/home/sc51865/new/gromacs-2018.8/gromacs-install/bin/gmx
+# Data prefix:  /public3/home/sc51865/new/gromacs-2018.8/gromacs-install
+# Working dir:  /public3/home/sc51865/IAAmodeling_emulsion/IAA30
+# Command line:
+#   gmx hbond -f prod.xtc -s prod.tpr -n system.ndx -dist -ang -life -nhbdist -nomerge -hbn -b 500
+# gmx hbond is part of G R O M A C S:
+#
+# Gravel Rubs Often Many Awfully Cauterized Sores
+#
+@    title "Hydrogen Bond Distribution"
+@    xaxis  label "Hydrogen - Donor - Acceptor Angle (\SO\N)"
+@    yaxis  label ""
+@TYPE xy
+       0.5 0.00309263
+       1.5 0.00954975
+       2.5  0.0157659
+       3.5  0.0213612
+       4.5  0.0264198
+       5.5  0.0313313
+       6.5  0.0346986
+       7.5   0.038412
+       8.5  0.0412566
+       9.5  0.0428541
+      10.5  0.0438056
+      11.5  0.0448383
+      12.5  0.0452909
+      13.5    0.04475
+      14.5  0.0440073
+      15.5  0.0432927
+      16.5  0.0423146
+      17.5  0.0411487
+      18.5  0.0398273
+      19.5  0.0384316
+      20.5  0.0366702
+      21.5    0.03536
+      22.5  0.0337906
+      23.5  0.0326093
+      24.5  0.0314686
+      25.5  0.0297633
+      26.5  0.0287992
+      27.5  0.0275338
+      28.5  0.0263217
+      29.5  0.0252343

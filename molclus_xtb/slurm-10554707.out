@@ -1,0 +1,350 @@
+ Isostat: A statistical analysis tool for a batch of isomers (64 bit)
+ Released as a component of Molclus, last update of isostat: 2022-May-28
+ Developed by Tian Lu, contact: sobereva@sina.com
+ Beijing Kein Research Center for Natural Sciences (http://www.keinsci.com)
+ 
+ Number of CPU cores to be used:   28
+
+ Input the path of input file, e.g. C:\sob\lovelive\nico.xyz
+ If press ENTER button directly, isomers.xyz in current folder will be loaded
+   To change number of cores used in calculation, input value now, e.g. 18
+ Number of CPU cores to be used:   20
+
+ Input the path of input file, e.g. C:\sob\lovelive\nico.xyz
+ If press ENTER button directly, isomers.xyz in current folder will be loaded
+   To change number of cores used in calculation, input value now, e.g. 18
+ 
+ Input the energy threshold for distinguishing different clusters
+ e.g. 0.5  (in kcal/mol)
+ If press ENTER button directly, 0.25 kcal/mol will be used
+ 
+ Input the geometry threshold for distinguishing different clusters
+ e.g. 0.25  (in Angstrom)
+ If press ENTER button directly, 0.1 Angstrom will be used
+ 
+ Analyzing...
+ 
+ There are   634 atoms
+ There are   100 isomers
+
+ Energy of isomer     1 :   -948.31296213 a.u.,  new cluster
+ Energy of isomer     2 :   -948.32944858 a.u.,  new cluster
+ Energy of isomer     3 :   -948.33604607 a.u.,  new cluster
+ Energy of isomer     4 :   -948.33312827 a.u.,  new cluster
+ Energy of isomer     5 :   -948.30127335 a.u.,  new cluster
+ Energy of isomer     6 :   -948.32487880 a.u.,  new cluster
+ Energy of isomer     7 :   -948.32139798 a.u.,  new cluster
+ Energy of isomer     8 :   -948.30200415 a.u.,  new cluster
+ Energy of isomer     9 :   -948.31026128 a.u.,  new cluster
+ Energy of isomer    10 :   -948.30763876 a.u.,  new cluster
+ Energy of isomer    11 :   -948.33354852 a.u.,  new cluster
+ Energy of isomer    12 :   -948.29059407 a.u.,  new cluster
+ Energy of isomer    13 :   -948.32463663 a.u.,  new cluster
+ Energy of isomer    14 :   -948.29926102 a.u.,  new cluster
+ Energy of isomer    15 :   -948.31289188 a.u.,  new cluster
+ Energy of isomer    16 :   -948.30096007 a.u.,  new cluster
+ Energy of isomer    17 :   -948.30945356 a.u.,  new cluster
+ Energy of isomer    18 :   -948.32096829 a.u.,  new cluster
+ Energy of isomer    19 :   -948.34773039 a.u.,  new cluster
+ Energy of isomer    20 :   -948.31475214 a.u.,  new cluster
+ Energy of isomer    21 :   -948.31255019 a.u.,  new cluster
+ Energy of isomer    22 :   -948.29447136 a.u.,  new cluster
+ Energy of isomer    23 :   -948.31186734 a.u.,  new cluster
+ Energy of isomer    24 :   -948.29754290 a.u.,  new cluster
+ Energy of isomer    25 :   -948.33986285 a.u.,  new cluster
+ Energy of isomer    26 :   -948.28582506 a.u.,  new cluster
+ Energy of isomer    27 :   -948.30092279 a.u.,  new cluster
+ Energy of isomer    28 :   -948.32025084 a.u.,  new cluster
+ Energy of isomer    29 :   -948.29659683 a.u.,  new cluster
+ Energy of isomer    30 :   -948.31248193 a.u.,  new cluster
+ Energy of isomer    31 :   -948.28409955 a.u.,  new cluster
+ Energy of isomer    32 :   -948.31309004 a.u.,  new cluster
+ Energy of isomer    33 :   -948.33194690 a.u.,  new cluster
+ Energy of isomer    34 :   -948.29989106 a.u.,  new cluster
+ Energy of isomer    35 :   -948.35309531 a.u.,  new cluster
+ Energy of isomer    36 :   -948.29332373 a.u.,  new cluster
+ Energy of isomer    37 :   -948.29644795 a.u.,  new cluster
+ Energy of isomer    38 :   -948.31013736 a.u.,  new cluster
+ Energy of isomer    39 :   -948.31273035 a.u.,  new cluster
+ Energy of isomer    40 :   -948.31995926 a.u.,  new cluster
+ Energy of isomer    41 :   -948.28928153 a.u.,  new cluster
+ Energy of isomer    42 :   -948.29296684 a.u.,  new cluster
+ Energy of isomer    43 :   -948.28621605 a.u.,  new cluster
+ Energy of isomer    44 :   -948.31332311 a.u.,  new cluster
+ Energy of isomer    45 :   -948.29512677 a.u.,  new cluster
+ Energy of isomer    46 :   -948.32039998 a.u.,  new cluster
+ Energy of isomer    47 :   -948.28731379 a.u.,  new cluster
+ Energy of isomer    48 :   -948.29905661 a.u.,  new cluster
+ Energy of isomer    49 :   -948.28445246 a.u.,  new cluster
+ Energy of isomer    50 :   -948.31006862 a.u.,  new cluster
+ Energy of isomer    51 :   -948.29086968 a.u.,  new cluster
+ Energy of isomer    52 :   -948.28459891 a.u.,  new cluster
+ Energy of isomer    53 :   -948.30405991 a.u.,  new cluster
+ Energy of isomer    54 :   -948.28712152 a.u.,  new cluster
+ Energy of isomer    55 :   -948.33793694 a.u.,  new cluster
+ Energy of isomer    56 :   -948.28803301 a.u.,  new cluster
+ Energy of isomer    57 :   -948.31061026 a.u.,  new cluster
+ Energy of isomer    58 :   -948.30982317 a.u.,  new cluster
+ Energy of isomer    59 :   -948.30860113 a.u.,  new cluster
+ Energy of isomer    60 :   -948.31900135 a.u.,  new cluster
+ Energy of isomer    61 :   -948.35628203 a.u.,  new cluster
+ Energy of isomer    62 :   -948.29320909 a.u.,  new cluster
+ Energy of isomer    63 :   -948.32830533 a.u.,  new cluster
+ Energy of isomer    64 :   -948.33899486 a.u.,  new cluster
+ Energy of isomer    65 :   -948.28683413 a.u.,  new cluster
+ Energy of isomer    66 :   -948.31815556 a.u.,  new cluster
+ Energy of isomer    67 :   -948.29349202 a.u.,  new cluster
+ Energy of isomer    68 :   -948.31279515 a.u.,  new cluster
+ Energy of isomer    69 :   -948.33981206 a.u.,  new cluster
+ Energy of isomer    70 :   -948.32025688 a.u.,  new cluster
+ Energy of isomer    71 :   -948.29716904 a.u.,  new cluster
+ Energy of isomer    72 :   -948.33731285 a.u.,  new cluster
+ Energy of isomer    73 :   -948.29465273 a.u.,  new cluster
+ Energy of isomer    74 :   -948.29677054 a.u.,  new cluster
+ Energy of isomer    75 :   -948.31716821 a.u.,  new cluster
+ Energy of isomer    76 :   -948.31679139 a.u.,  new cluster
+ Energy of isomer    77 :   -948.33417084 a.u.,  new cluster
+ Energy of isomer    78 :   -948.28431408 a.u.,  new cluster
+ Energy of isomer    79 :   -948.33007185 a.u.,  new cluster
+ Energy of isomer    80 :   -948.32613306 a.u.,  new cluster
+ Energy of isomer    81 :   -948.30936742 a.u.,  new cluster
+ Energy of isomer    82 :   -948.32106914 a.u.,  new cluster
+ Energy of isomer    83 :   -948.32208142 a.u.,  new cluster
+ Energy of isomer    84 :   -948.30314024 a.u.,  new cluster
+ Energy of isomer    85 :   -948.30084106 a.u.,  new cluster
+ Energy of isomer    86 :   -948.30325516 a.u.,  new cluster
+ Energy of isomer    87 :   -948.31748126 a.u.,  new cluster
+ Energy of isomer    88 :   -948.29156509 a.u.,  new cluster
+ Energy of isomer    89 :   -948.29903679 a.u.,  new cluster
+ Energy of isomer    90 :   -948.32596199 a.u.,  new cluster
+ Energy of isomer    91 :   -948.30404166 a.u.,  new cluster
+ Energy of isomer    92 :   -948.32015375 a.u.,  new cluster
+ Energy of isomer    93 :   -948.29577033 a.u.,  new cluster
+ Energy of isomer    94 :   -948.34292298 a.u.,  new cluster
+ Energy of isomer    95 :   -948.29719720 a.u.,  new cluster
+ Energy of isomer    96 :   -948.29659451 a.u.,  new cluster
+ Energy of isomer    97 :   -948.31416806 a.u.,  new cluster
+ Energy of isomer    98 :   -948.28595956 a.u.,  new cluster
+ Energy of isomer    99 :   -948.32120668 a.u.,  new cluster
+ Energy of isomer   100 :   -948.29587308 a.u.,  new cluster
+ 
+ The lowest energy is   -948.35628203 a.u.
+ Sorting clusters according to energy...
+ Calculation took up wall clock time      2295 s
+
+ In below output, DE is energy difference with respect to the lowest one. DGmin quantifies minimal geometry difference with respect to all other clusters
+
+ #    1 Count:    1  E=   -948.356282 a.u.  DGmin=   0.92  DE=    0.00 kcal/mol
+ #    2 Count:    1  E=   -948.353095 a.u.  DGmin=   2.04  DE=    2.00 kcal/mol
+ #    3 Count:    1  E=   -948.347730 a.u.  DGmin=   0.82  DE=    5.37 kcal/mol
+ #    4 Count:    1  E=   -948.342923 a.u.  DGmin=   0.44  DE=    8.38 kcal/mol
+ #    5 Count:    1  E=   -948.339863 a.u.  DGmin=   1.24  DE=   10.30 kcal/mol
+ #    6 Count:    1  E=   -948.339812 a.u.  DGmin=   0.63  DE=   10.34 kcal/mol
+ #    7 Count:    1  E=   -948.338995 a.u.  DGmin=   0.76  DE=   10.85 kcal/mol
+ #    8 Count:    1  E=   -948.337937 a.u.  DGmin=   0.44  DE=   11.51 kcal/mol
+ #    9 Count:    1  E=   -948.337313 a.u.  DGmin=   0.89  DE=   11.90 kcal/mol
+ #   10 Count:    1  E=   -948.336046 a.u.  DGmin=   1.24  DE=   12.70 kcal/mol
+ #   11 Count:    1  E=   -948.334171 a.u.  DGmin=   1.23  DE=   13.87 kcal/mol
+ #   12 Count:    1  E=   -948.333549 a.u.  DGmin=   0.63  DE=   14.27 kcal/mol
+ #   13 Count:    1  E=   -948.333128 a.u.  DGmin=   1.68  DE=   14.53 kcal/mol
+ #   14 Count:    1  E=   -948.331947 a.u.  DGmin=   0.77  DE=   15.27 kcal/mol
+ #   15 Count:    1  E=   -948.330072 a.u.  DGmin=   1.22  DE=   16.45 kcal/mol
+ #   16 Count:    1  E=   -948.329449 a.u.  DGmin=   0.87  DE=   16.84 kcal/mol
+ #   17 Count:    1  E=   -948.328305 a.u.  DGmin=   2.34  DE=   17.56 kcal/mol
+ #   18 Count:    1  E=   -948.326133 a.u.  DGmin=   0.88  DE=   18.92 kcal/mol
+ #   19 Count:    1  E=   -948.325962 a.u.  DGmin=   0.85  DE=   19.03 kcal/mol
+ #   20 Count:    1  E=   -948.324879 a.u.  DGmin=   0.77  DE=   19.71 kcal/mol
+ #   21 Count:    1  E=   -948.324637 a.u.  DGmin=   1.15  DE=   19.86 kcal/mol
+ #   22 Count:    1  E=   -948.322081 a.u.  DGmin=   1.04  DE=   21.46 kcal/mol
+ #   23 Count:    1  E=   -948.321398 a.u.  DGmin=   0.75  DE=   21.89 kcal/mol
+ #   24 Count:    1  E=   -948.321207 a.u.  DGmin=   0.85  DE=   22.01 kcal/mol
+ #   25 Count:    1  E=   -948.321069 a.u.  DGmin=   1.41  DE=   22.10 kcal/mol
+ #   26 Count:    1  E=   -948.320968 a.u.  DGmin=   1.04  DE=   22.16 kcal/mol
+ #   27 Count:    1  E=   -948.320400 a.u.  DGmin=   2.28  DE=   22.52 kcal/mol
+ #   28 Count:    1  E=   -948.320257 a.u.  DGmin=   1.23  DE=   22.61 kcal/mol
+ #   29 Count:    1  E=   -948.320251 a.u.  DGmin=   1.22  DE=   22.61 kcal/mol
+ #   30 Count:    1  E=   -948.320154 a.u.  DGmin=   1.57  DE=   22.67 kcal/mol
+ #   31 Count:    1  E=   -948.319959 a.u.  DGmin=   1.78  DE=   22.79 kcal/mol
+ #   32 Count:    1  E=   -948.319001 a.u.  DGmin=   1.28  DE=   23.39 kcal/mol
+ #   33 Count:    1  E=   -948.318156 a.u.  DGmin=   0.76  DE=   23.92 kcal/mol
+ #   34 Count:    1  E=   -948.317481 a.u.  DGmin=   1.15  DE=   24.35 kcal/mol
+ #   35 Count:    1  E=   -948.317168 a.u.  DGmin=   1.47  DE=   24.54 kcal/mol
+ #   36 Count:    1  E=   -948.316791 a.u.  DGmin=   0.89  DE=   24.78 kcal/mol
+ #   37 Count:    1  E=   -948.314752 a.u.  DGmin=   0.88  DE=   26.06 kcal/mol
+ #   38 Count:    1  E=   -948.314168 a.u.  DGmin=   0.88  DE=   26.43 kcal/mol
+ #   39 Count:    1  E=   -948.313323 a.u.  DGmin=   1.15  DE=   26.96 kcal/mol
+ #   40 Count:    1  E=   -948.313090 a.u.  DGmin=   1.01  DE=   27.10 kcal/mol
+ #   41 Count:    1  E=   -948.312962 a.u.  DGmin=   1.03  DE=   27.18 kcal/mol
+ #   42 Count:    1  E=   -948.312892 a.u.  DGmin=   1.23  DE=   27.23 kcal/mol
+ #   43 Count:    1  E=   -948.312795 a.u.  DGmin=   1.11  DE=   27.29 kcal/mol
+ #   44 Count:    1  E=   -948.312730 a.u.  DGmin=   1.40  DE=   27.33 kcal/mol
+ #   45 Count:    1  E=   -948.312550 a.u.  DGmin=   2.16  DE=   27.44 kcal/mol
+ #   46 Count:    1  E=   -948.312482 a.u.  DGmin=   2.16  DE=   27.49 kcal/mol
+ #   47 Count:    1  E=   -948.311867 a.u.  DGmin=   2.18  DE=   27.87 kcal/mol
+ #   48 Count:    1  E=   -948.310610 a.u.  DGmin=   1.07  DE=   28.66 kcal/mol
+ #   49 Count:    1  E=   -948.310261 a.u.  DGmin=   1.73  DE=   28.88 kcal/mol
+ #   50 Count:    1  E=   -948.310137 a.u.  DGmin=   1.17  DE=   28.96 kcal/mol
+ #   51 Count:    1  E=   -948.310069 a.u.  DGmin=   1.01  DE=   29.00 kcal/mol
+ #   52 Count:    1  E=   -948.309823 a.u.  DGmin=   0.75  DE=   29.15 kcal/mol
+ #   53 Count:    1  E=   -948.309454 a.u.  DGmin=   0.88  DE=   29.39 kcal/mol
+ #   54 Count:    1  E=   -948.309367 a.u.  DGmin=   1.34  DE=   29.44 kcal/mol
+ #   55 Count:    1  E=   -948.308601 a.u.  DGmin=   1.22  DE=   29.92 kcal/mol
+ #   56 Count:    1  E=   -948.307639 a.u.  DGmin=   1.01  DE=   30.52 kcal/mol
+ #   57 Count:    1  E=   -948.304060 a.u.  DGmin=   0.75  DE=   32.77 kcal/mol
+ #   58 Count:    1  E=   -948.304042 a.u.  DGmin=   1.08  DE=   32.78 kcal/mol
+ #   59 Count:    1  E=   -948.303255 a.u.  DGmin=   1.07  DE=   33.27 kcal/mol
+ #   60 Count:    1  E=   -948.303140 a.u.  DGmin=   2.63  DE=   33.35 kcal/mol
+ #   61 Count:    1  E=   -948.302004 a.u.  DGmin=   1.21  DE=   34.06 kcal/mol
+ #   62 Count:    1  E=   -948.301273 a.u.  DGmin=   1.48  DE=   34.52 kcal/mol
+ #   63 Count:    1  E=   -948.300960 a.u.  DGmin=   0.96  DE=   34.72 kcal/mol
+ #   64 Count:    1  E=   -948.300923 a.u.  DGmin=   0.76  DE=   34.74 kcal/mol
+ #   65 Count:    1  E=   -948.300841 a.u.  DGmin=   1.48  DE=   34.79 kcal/mol
+ #   66 Count:    1  E=   -948.299891 a.u.  DGmin=   2.73  DE=   35.39 kcal/mol
+ #   67 Count:    1  E=   -948.299261 a.u.  DGmin=   1.92  DE=   35.78 kcal/mol
+ #   68 Count:    1  E=   -948.299057 a.u.  DGmin=   1.11  DE=   35.91 kcal/mol
+ #   69 Count:    1  E=   -948.299037 a.u.  DGmin=   1.83  DE=   35.92 kcal/mol
+ #   70 Count:    1  E=   -948.297543 a.u.  DGmin=   1.69  DE=   36.86 kcal/mol
+ #   71 Count:    1  E=   -948.297197 a.u.  DGmin=   1.09  DE=   37.08 kcal/mol
+ #   72 Count:    1  E=   -948.297169 a.u.  DGmin=   2.15  DE=   37.09 kcal/mol
+ #   73 Count:    1  E=   -948.296771 a.u.  DGmin=   0.64  DE=   37.34 kcal/mol
+ #   74 Count:    1  E=   -948.296597 a.u.  DGmin=   0.75  DE=   37.45 kcal/mol
+ #   75 Count:    1  E=   -948.296595 a.u.  DGmin=   1.49  DE=   37.45 kcal/mol
+ #   76 Count:    1  E=   -948.296448 a.u.  DGmin=   0.96  DE=   37.55 kcal/mol
+ #   77 Count:    1  E=   -948.295873 a.u.  DGmin=   1.54  DE=   37.91 kcal/mol
+ #   78 Count:    1  E=   -948.295770 a.u.  DGmin=   1.33  DE=   37.97 kcal/mol
+ #   79 Count:    1  E=   -948.295127 a.u.  DGmin=   0.76  DE=   38.38 kcal/mol
+ #   80 Count:    1  E=   -948.294653 a.u.  DGmin=   1.13  DE=   38.67 kcal/mol
+ #   81 Count:    1  E=   -948.294471 a.u.  DGmin=   0.96  DE=   38.79 kcal/mol
+ #   82 Count:    1  E=   -948.293492 a.u.  DGmin=   1.15  DE=   39.40 kcal/mol
+ #   83 Count:    1  E=   -948.293324 a.u.  DGmin=   2.03  DE=   39.51 kcal/mol
+ #   84 Count:    1  E=   -948.293209 a.u.  DGmin=   1.17  DE=   39.58 kcal/mol
+ #   85 Count:    1  E=   -948.292967 a.u.  DGmin=   0.64  DE=   39.73 kcal/mol
+ #   86 Count:    1  E=   -948.291565 a.u.  DGmin=   1.14  DE=   40.61 kcal/mol
+ #   87 Count:    1  E=   -948.290870 a.u.  DGmin=   2.75  DE=   41.05 kcal/mol
+ #   88 Count:    1  E=   -948.290594 a.u.  DGmin=   1.54  DE=   41.22 kcal/mol
+ #   89 Count:    1  E=   -948.289282 a.u.  DGmin=   2.19  DE=   42.04 kcal/mol
+ #   90 Count:    1  E=   -948.288033 a.u.  DGmin=   1.07  DE=   42.83 kcal/mol
+ #   91 Count:    1  E=   -948.287314 a.u.  DGmin=   1.19  DE=   43.28 kcal/mol
+ #   92 Count:    1  E=   -948.287122 a.u.  DGmin=   1.26  DE=   43.40 kcal/mol
+ #   93 Count:    1  E=   -948.286834 a.u.  DGmin=   1.14  DE=   43.58 kcal/mol
+ #   94 Count:    1  E=   -948.286216 a.u.  DGmin=   0.77  DE=   43.97 kcal/mol
+ #   95 Count:    1  E=   -948.285960 a.u.  DGmin=   1.48  DE=   44.13 kcal/mol
+ #   96 Count:    1  E=   -948.285825 a.u.  DGmin=   1.68  DE=   44.21 kcal/mol
+ #   97 Count:    1  E=   -948.284599 a.u.  DGmin=   1.92  DE=   44.98 kcal/mol
+ #   98 Count:    1  E=   -948.284452 a.u.  DGmin=   1.26  DE=   45.07 kcal/mol
+ #   99 Count:    1  E=   -948.284314 a.u.  DGmin=   1.83  DE=   45.16 kcal/mol
+ #  100 Count:    1  E=   -948.284100 a.u.  DGmin=   0.96  DE=   45.30 kcal/mol
+ 
+ Representative geometry of each cluster along with their energies have been outputted to cluster.xyz in current folder
+ 
+ If you want to calculate Boltzmann distribution, input temperature in K
+ If you want to exit, directly press ENTER button
+ #    1   Count:   1   Ratio:  96.68%
+ #    2   Count:   1   Ratio:   3.31%
+ #    3   Count:   1   Ratio:   0.01%
+ #    4   Count:   1   Ratio:   0.00%
+ #    5   Count:   1   Ratio:   0.00%
+ #    6   Count:   1   Ratio:   0.00%
+ #    7   Count:   1   Ratio:   0.00%
+ #    8   Count:   1   Ratio:   0.00%
+ #    9   Count:   1   Ratio:   0.00%
+ #   10   Count:   1   Ratio:   0.00%
+ #   11   Count:   1   Ratio:   0.00%
+ #   12   Count:   1   Ratio:   0.00%
+ #   13   Count:   1   Ratio:   0.00%
+ #   14   Count:   1   Ratio:   0.00%
+ #   15   Count:   1   Ratio:   0.00%
+ #   16   Count:   1   Ratio:   0.00%
+ #   17   Count:   1   Ratio:   0.00%
+ #   18   Count:   1   Ratio:   0.00%
+ #   19   Count:   1   Ratio:   0.00%
+ #   20   Count:   1   Ratio:   0.00%
+ #   21   Count:   1   Ratio:   0.00%
+ #   22   Count:   1   Ratio:   0.00%
+ #   23   Count:   1   Ratio:   0.00%
+ #   24   Count:   1   Ratio:   0.00%
+ #   25   Count:   1   Ratio:   0.00%
+ #   26   Count:   1   Ratio:   0.00%
+ #   27   Count:   1   Ratio:   0.00%
+ #   28   Count:   1   Ratio:   0.00%
+ #   29   Count:   1   Ratio:   0.00%
+ #   30   Count:   1   Ratio:   0.00%
+ #   31   Count:   1   Ratio:   0.00%
+ #   32   Count:   1   Ratio:   0.00%
+ #   33   Count:   1   Ratio:   0.00%
+ #   34   Count:   1   Ratio:   0.00%
+ #   35   Count:   1   Ratio:   0.00%
+ #   36   Count:   1   Ratio:   0.00%
+ #   37   Count:   1   Ratio:   0.00%
+ #   38   Count:   1   Ratio:   0.00%
+ #   39   Count:   1   Ratio:   0.00%
+ #   40   Count:   1   Ratio:   0.00%
+ #   41   Count:   1   Ratio:   0.00%
+ #   42   Count:   1   Ratio:   0.00%
+ #   43   Count:   1   Ratio:   0.00%
+ #   44   Count:   1   Ratio:   0.00%
+ #   45   Count:   1   Ratio:   0.00%
+ #   46   Count:   1   Ratio:   0.00%
+ #   47   Count:   1   Ratio:   0.00%
+ #   48   Count:   1   Ratio:   0.00%
+ #   49   Count:   1   Ratio:   0.00%
+ #   50   Count:   1   Ratio:   0.00%
+ #   51   Count:   1   Ratio:   0.00%
+ #   52   Count:   1   Ratio:   0.00%
+ #   53   Count:   1   Ratio:   0.00%
+ #   54   Count:   1   Ratio:   0.00%
+ #   55   Count:   1   Ratio:   0.00%
+ #   56   Count:   1   Ratio:   0.00%
+ #   57   Count:   1   Ratio:   0.00%
+ #   58   Count:   1   Ratio:   0.00%
+ #   59   Count:   1   Ratio:   0.00%
+ #   60   Count:   1   Ratio:   0.00%
+ #   61   Count:   1   Ratio:   0.00%
+ #   62   Count:   1   Ratio:   0.00%
+ #   63   Count:   1   Ratio:   0.00%
+ #   64   Count:   1   Ratio:   0.00%
+ #   65   Count:   1   Ratio:   0.00%
+ #   66   Count:   1   Ratio:   0.00%
+ #   67   Count:   1   Ratio:   0.00%
+ #   68   Count:   1   Ratio:   0.00%
+ #   69   Count:   1   Ratio:   0.00%
+ #   70   Count:   1   Ratio:   0.00%
+ #   71   Count:   1   Ratio:   0.00%
+ #   72   Count:   1   Ratio:   0.00%
+ #   73   Count:   1   Ratio:   0.00%
+ #   74   Count:   1   Ratio:   0.00%
+ #   75   Count:   1   Ratio:   0.00%
+ #   76   Count:   1   Ratio:   0.00%
+ #   77   Count:   1   Ratio:   0.00%
+ #   78   Count:   1   Ratio:   0.00%
+ #   79   Count:   1   Ratio:   0.00%
+ #   80   Count:   1   Ratio:   0.00%
+ #   81   Count:   1   Ratio:   0.00%
+ #   82   Count:   1   Ratio:   0.00%
+ #   83   Count:   1   Ratio:   0.00%
+ #   84   Count:   1   Ratio:   0.00%
+ #   85   Count:   1   Ratio:   0.00%
+ #   86   Count:   1   Ratio:   0.00%
+ #   87   Count:   1   Ratio:   0.00%
+ #   88   Count:   1   Ratio:   0.00%
+ #   89   Count:   1   Ratio:   0.00%
+ #   90   Count:   1   Ratio:   0.00%
+ #   91   Count:   1   Ratio:   0.00%
+ #   92   Count:   1   Ratio:   0.00%
+ #   93   Count:   1   Ratio:   0.00%
+ #   94   Count:   1   Ratio:   0.00%
+ #   95   Count:   1   Ratio:   0.00%
+ #   96   Count:   1   Ratio:   0.00%
+ #   97   Count:   1   Ratio:   0.00%
+ #   98   Count:   1   Ratio:   0.00%
+ #   99   Count:   1   Ratio:   0.00%
+ #  100   Count:   1   Ratio:   0.00%
+ Press ENTER button to exit
+forrtl: severe (24): end-of-file during read, unit -4, file /proc/37885/fd/0
+Image              PC                Routine            Line        Source             
+isostat            000000000041DEAB  Unknown               Unknown  Unknown
+isostat            00000000004496E8  Unknown               Unknown  Unknown
+isostat            0000000000417C00  Unknown               Unknown  Unknown
+isostat            0000000000412D22  Unknown               Unknown  Unknown
+libc-2.17.so       00002AF1985F13D5  __libc_start_main     Unknown  Unknown
+isostat            0000000000412C29  Unknown               Unknown  Unknown

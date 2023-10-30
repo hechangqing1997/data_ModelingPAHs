@@ -1,0 +1,1329 @@
+ Molclus: A flexible program for searching cluster configurations and molecular conformations
+ Molclus official website: http://www.keinsci.com/research/molclus.html
+ Developed by Tian Lu (sobereva@sina.com)     Last update: 2022-Sep-9
+ Beijing Kein Research Center for Natural Sciences (http://www.keinsci.com)
+ P-L-E-A-S-E properly cite this code as mentioned in the official site
+ 
+ Inputted trajectory file: traj.xyz
+ Loading basic information from the inputted trajectory file ...
+ There are totally       100 geometries in the inputted trajectory file
+ 
+ Setting file: settings.ini
+ Loading setting file ...
+ Program to be invoked: xtb
+ Task: Optimization
+ All frames in the inputted trajectory file will be processed
+ 
+ Cleaning old output and temporary files...
+ Deleting charges energy wbo xtb*
+ All xtb temporary files in current folder have been cleaned
+
+                         *** Configuration     1  ***
+ Current date: 2023-04-21   Time: 11:53:35
+ Loading geometry         1 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.31296213 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:     994 s
+
+                         *** Configuration     2  ***
+ Current date: 2023-04-21   Time: 12:10:09
+ Loading geometry         2 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.32944858 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    3220 s
+
+                         *** Configuration     3  ***
+ Current date: 2023-04-21   Time: 13:03:49
+ Loading geometry         3 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.33604607 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    3699 s
+
+                         *** Configuration     4  ***
+ Current date: 2023-04-21   Time: 14:05:28
+ Loading geometry         4 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.33312827 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    2523 s
+
+                         *** Configuration     5  ***
+ Current date: 2023-04-21   Time: 14:47:31
+ Loading geometry         5 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.30127335 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    2370 s
+
+                         *** Configuration     6  ***
+ Current date: 2023-04-21   Time: 15:27:01
+ Loading geometry         6 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.32487880 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    3498 s
+
+                         *** Configuration     7  ***
+ Current date: 2023-04-21   Time: 16:25:19
+ Loading geometry         7 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.32139798 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    2399 s
+
+                         *** Configuration     8  ***
+ Current date: 2023-04-21   Time: 17:05:18
+ Loading geometry         8 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.30200415 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    1992 s
+
+                         *** Configuration     9  ***
+ Current date: 2023-04-21   Time: 17:38:30
+ Loading geometry         9 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.31026128 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    1531 s
+
+                         *** Configuration    10  ***
+ Current date: 2023-04-21   Time: 18:04:01
+ Loading geometry        10 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.30763876 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    2276 s
+
+                         *** Configuration    11  ***
+ Current date: 2023-04-21   Time: 18:41:57
+ Loading geometry        11 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.33354852 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    2040 s
+
+                         *** Configuration    12  ***
+ Current date: 2023-04-21   Time: 19:15:57
+ Loading geometry        12 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.29059407 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    1189 s
+
+                         *** Configuration    13  ***
+ Current date: 2023-04-21   Time: 19:35:46
+ Loading geometry        13 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.32463663 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    2734 s
+
+                         *** Configuration    14  ***
+ Current date: 2023-04-21   Time: 20:21:20
+ Loading geometry        14 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.29926102 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    1436 s
+
+                         *** Configuration    15  ***
+ Current date: 2023-04-21   Time: 20:45:16
+ Loading geometry        15 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.31289188 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    1631 s
+
+                         *** Configuration    16  ***
+ Current date: 2023-04-21   Time: 21:12:27
+ Loading geometry        16 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.30096007 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    1275 s
+
+                         *** Configuration    17  ***
+ Current date: 2023-04-21   Time: 21:33:42
+ Loading geometry        17 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.30945356 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    2105 s
+
+                         *** Configuration    18  ***
+ Current date: 2023-04-21   Time: 22:08:47
+ Loading geometry        18 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.32096829 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    2681 s
+
+                         *** Configuration    19  ***
+ Current date: 2023-04-21   Time: 22:53:28
+ Loading geometry        19 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.34773039 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    2783 s
+
+                         *** Configuration    20  ***
+ Current date: 2023-04-21   Time: 23:39:51
+ Loading geometry        20 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.31475214 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    1931 s
+
+                         *** Configuration    21  ***
+ Current date: 2023-04-22   Time: 00:12:02
+ Loading geometry        21 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.31255019 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    1659 s
+
+                         *** Configuration    22  ***
+ Current date: 2023-04-22   Time: 00:39:41
+ Loading geometry        22 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.29447136 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    1381 s
+
+                         *** Configuration    23  ***
+ Current date: 2023-04-22   Time: 01:02:42
+ Loading geometry        23 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.31186734 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    1911 s
+
+                         *** Configuration    24  ***
+ Current date: 2023-04-22   Time: 01:34:33
+ Loading geometry        24 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.29754290 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    1352 s
+
+                         *** Configuration    25  ***
+ Current date: 2023-04-22   Time: 01:57:05
+ Loading geometry        25 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.33986285 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    2844 s
+
+                         *** Configuration    26  ***
+ Current date: 2023-04-22   Time: 02:44:29
+ Loading geometry        26 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.28582506 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    1020 s
+
+                         *** Configuration    27  ***
+ Current date: 2023-04-22   Time: 03:01:29
+ Loading geometry        27 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.30092279 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    1738 s
+
+                         *** Configuration    28  ***
+ Current date: 2023-04-22   Time: 03:30:27
+ Loading geometry        28 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.32025084 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    2327 s
+
+                         *** Configuration    29  ***
+ Current date: 2023-04-22   Time: 04:09:14
+ Loading geometry        29 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.29659683 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:     864 s
+
+                         *** Configuration    30  ***
+ Current date: 2023-04-22   Time: 04:23:38
+ Loading geometry        30 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.31248193 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    2569 s
+
+                         *** Configuration    31  ***
+ Current date: 2023-04-22   Time: 05:06:27
+ Loading geometry        31 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.28409955 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:     866 s
+
+                         *** Configuration    32  ***
+ Current date: 2023-04-22   Time: 05:20:53
+ Loading geometry        32 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.31309004 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    2270 s
+
+                         *** Configuration    33  ***
+ Current date: 2023-04-22   Time: 05:58:43
+ Loading geometry        33 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.33194690 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    3318 s
+
+                         *** Configuration    34  ***
+ Current date: 2023-04-22   Time: 06:54:01
+ Loading geometry        34 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.29989106 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    1278 s
+
+                         *** Configuration    35  ***
+ Current date: 2023-04-22   Time: 07:15:19
+ Loading geometry        35 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.35309531 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    4594 s
+
+                         *** Configuration    36  ***
+ Current date: 2023-04-22   Time: 08:31:53
+ Loading geometry        36 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.29332373 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    1402 s
+
+                         *** Configuration    37  ***
+ Current date: 2023-04-22   Time: 08:55:15
+ Loading geometry        37 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.29644795 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    1852 s
+
+                         *** Configuration    38  ***
+ Current date: 2023-04-22   Time: 09:26:07
+ Loading geometry        38 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.31013736 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    1672 s
+
+                         *** Configuration    39  ***
+ Current date: 2023-04-22   Time: 09:53:59
+ Loading geometry        39 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.31273035 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    1661 s
+
+                         *** Configuration    40  ***
+ Current date: 2023-04-22   Time: 10:21:40
+ Loading geometry        40 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.31995926 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    2539 s
+
+                         *** Configuration    41  ***
+ Current date: 2023-04-22   Time: 11:03:59
+ Loading geometry        41 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.28928153 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:     920 s
+
+                         *** Configuration    42  ***
+ Current date: 2023-04-22   Time: 11:19:19
+ Loading geometry        42 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.29296684 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    1067 s
+
+                         *** Configuration    43  ***
+ Current date: 2023-04-22   Time: 11:37:06
+ Loading geometry        43 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.28621605 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    1090 s
+
+                         *** Configuration    44  ***
+ Current date: 2023-04-22   Time: 11:55:16
+ Loading geometry        44 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.31332311 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    2310 s
+
+                         *** Configuration    45  ***
+ Current date: 2023-04-22   Time: 12:33:46
+ Loading geometry        45 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.29512677 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    1785 s
+
+                         *** Configuration    46  ***
+ Current date: 2023-04-22   Time: 13:03:31
+ Loading geometry        46 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.32039998 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    3473 s
+
+                         *** Configuration    47  ***
+ Current date: 2023-04-22   Time: 14:01:24
+ Loading geometry        47 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.28731379 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:     966 s
+
+                         *** Configuration    48  ***
+ Current date: 2023-04-22   Time: 14:17:30
+ Loading geometry        48 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.29905661 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    1950 s
+
+                         *** Configuration    49  ***
+ Current date: 2023-04-22   Time: 14:50:00
+ Loading geometry        49 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.28445246 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:     806 s
+
+                         *** Configuration    50  ***
+ Current date: 2023-04-22   Time: 15:03:26
+ Loading geometry        50 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.31006862 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    2087 s
+
+                         *** Configuration    51  ***
+ Current date: 2023-04-22   Time: 15:38:13
+ Loading geometry        51 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.29086968 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    1072 s
+
+                         *** Configuration    52  ***
+ Current date: 2023-04-22   Time: 15:56:05
+ Loading geometry        52 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.28459891 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:     896 s
+
+                         *** Configuration    53  ***
+ Current date: 2023-04-22   Time: 16:11:01
+ Loading geometry        53 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.30405991 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    1668 s
+
+                         *** Configuration    54  ***
+ Current date: 2023-04-22   Time: 16:38:49
+ Loading geometry        54 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.28712152 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:     795 s
+
+                         *** Configuration    55  ***
+ Current date: 2023-04-22   Time: 16:52:04
+ Loading geometry        55 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.33793694 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    3393 s
+
+                         *** Configuration    56  ***
+ Current date: 2023-04-22   Time: 17:48:37
+ Loading geometry        56 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.28803301 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:     889 s
+
+                         *** Configuration    57  ***
+ Current date: 2023-04-22   Time: 18:03:26
+ Loading geometry        57 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.31061026 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    1680 s
+
+                         *** Configuration    58  ***
+ Current date: 2023-04-22   Time: 18:31:26
+ Loading geometry        58 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.30982317 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    2189 s
+
+                         *** Configuration    59  ***
+ Current date: 2023-04-22   Time: 19:07:55
+ Loading geometry        59 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.30860113 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    2194 s
+
+                         *** Configuration    60  ***
+ Current date: 2023-04-22   Time: 19:44:29
+ Loading geometry        60 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.31900135 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    1825 s
+
+                         *** Configuration    61  ***
+ Current date: 2023-04-22   Time: 20:14:54
+ Loading geometry        61 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.35628203 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    3314 s
+
+                         *** Configuration    62  ***
+ Current date: 2023-04-22   Time: 21:10:08
+ Loading geometry        62 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.29320909 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:     861 s
+
+                         *** Configuration    63  ***
+ Current date: 2023-04-22   Time: 21:24:29
+ Loading geometry        63 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.32830533 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    1824 s
+
+                         *** Configuration    64  ***
+ Current date: 2023-04-22   Time: 21:54:53
+ Loading geometry        64 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.33899486 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    2993 s
+
+                         *** Configuration    65  ***
+ Current date: 2023-04-22   Time: 22:44:46
+ Loading geometry        65 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.28683413 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:     918 s
+
+                         *** Configuration    66  ***
+ Current date: 2023-04-22   Time: 23:00:04
+ Loading geometry        66 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.31815556 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    2125 s
+
+                         *** Configuration    67  ***
+ Current date: 2023-04-22   Time: 23:35:29
+ Loading geometry        67 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.29349202 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    1363 s
+
+                         *** Configuration    68  ***
+ Current date: 2023-04-22   Time: 23:58:12
+ Loading geometry        68 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.31279515 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    1247 s
+
+                         *** Configuration    69  ***
+ Current date: 2023-04-23   Time: 00:18:59
+ Loading geometry        69 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.33981206 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    2643 s
+
+                         *** Configuration    70  ***
+ Current date: 2023-04-23   Time: 01:03:02
+ Loading geometry        70 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.32025688 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    2909 s
+
+                         *** Configuration    71  ***
+ Current date: 2023-04-23   Time: 01:51:31
+ Loading geometry        71 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.29716904 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    1385 s
+
+                         *** Configuration    72  ***
+ Current date: 2023-04-23   Time: 02:14:36
+ Loading geometry        72 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.33731285 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    1864 s
+
+                         *** Configuration    73  ***
+ Current date: 2023-04-23   Time: 02:45:40
+ Loading geometry        73 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.29465273 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    1569 s
+
+                         *** Configuration    74  ***
+ Current date: 2023-04-23   Time: 03:11:49
+ Loading geometry        74 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.29677054 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    1454 s
+
+                         *** Configuration    75  ***
+ Current date: 2023-04-23   Time: 03:36:03
+ Loading geometry        75 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.31716821 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    1950 s
+
+                         *** Configuration    76  ***
+ Current date: 2023-04-23   Time: 04:08:33
+ Loading geometry        76 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.31679139 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    1854 s
+
+                         *** Configuration    77  ***
+ Current date: 2023-04-23   Time: 04:39:27
+ Loading geometry        77 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.33417084 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    1667 s
+
+                         *** Configuration    78  ***
+ Current date: 2023-04-23   Time: 05:07:14
+ Loading geometry        78 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.28431408 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:     782 s
+
+                         *** Configuration    79  ***
+ Current date: 2023-04-23   Time: 05:20:16
+ Loading geometry        79 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.33007185 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    3880 s
+
+                         *** Configuration    80  ***
+ Current date: 2023-04-23   Time: 06:24:56
+ Loading geometry        80 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.32613306 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    2423 s
+
+                         *** Configuration    81  ***
+ Current date: 2023-04-23   Time: 07:05:19
+ Loading geometry        81 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.30936742 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    2582 s
+
+                         *** Configuration    82  ***
+ Current date: 2023-04-23   Time: 07:48:21
+ Loading geometry        82 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.32106914 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    1761 s
+
+                         *** Configuration    83  ***
+ Current date: 2023-04-23   Time: 08:17:42
+ Loading geometry        83 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.32208142 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    1793 s
+
+                         *** Configuration    84  ***
+ Current date: 2023-04-23   Time: 08:47:35
+ Loading geometry        84 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.30314024 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    1843 s
+
+                         *** Configuration    85  ***
+ Current date: 2023-04-23   Time: 09:18:18
+ Loading geometry        85 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.30084106 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    1496 s
+
+                         *** Configuration    86  ***
+ Current date: 2023-04-23   Time: 09:43:14
+ Loading geometry        86 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.30325516 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    1294 s
+
+                         *** Configuration    87  ***
+ Current date: 2023-04-23   Time: 10:04:48
+ Loading geometry        87 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.31748126 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    2500 s
+
+                         *** Configuration    88  ***
+ Current date: 2023-04-23   Time: 10:46:28
+ Loading geometry        88 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.29156509 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    1405 s
+
+                         *** Configuration    89  ***
+ Current date: 2023-04-23   Time: 11:09:53
+ Loading geometry        89 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.29903679 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    1361 s
+
+                         *** Configuration    90  ***
+ Current date: 2023-04-23   Time: 11:32:34
+ Loading geometry        90 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.32596199 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    2576 s
+
+                         *** Configuration    91  ***
+ Current date: 2023-04-23   Time: 12:15:30
+ Loading geometry        91 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.30404166 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    1274 s
+
+                         *** Configuration    92  ***
+ Current date: 2023-04-23   Time: 12:36:44
+ Loading geometry        92 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.32015375 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    2535 s
+
+                         *** Configuration    93  ***
+ Current date: 2023-04-23   Time: 13:18:59
+ Loading geometry        93 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.29577033 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    1079 s
+
+                         *** Configuration    94  ***
+ Current date: 2023-04-23   Time: 13:36:58
+ Loading geometry        94 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.34292298 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    4165 s
+
+                         *** Configuration    95  ***
+ Current date: 2023-04-23   Time: 14:46:23
+ Loading geometry        95 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.29719720 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    1254 s
+
+                         *** Configuration    96  ***
+ Current date: 2023-04-23   Time: 15:07:17
+ Loading geometry        96 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.29659451 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    1109 s
+
+                         *** Configuration    97  ***
+ Current date: 2023-04-23   Time: 15:25:46
+ Loading geometry        97 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.31416806 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:     996 s
+
+                         *** Configuration    98  ***
+ Current date: 2023-04-23   Time: 15:42:22
+ Loading geometry        98 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.28595956 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:     899 s
+
+                         *** Configuration    99  ***
+ Current date: 2023-04-23   Time: 15:57:21
+ Loading geometry        99 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.32120668 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    2071 s
+
+                         *** Configuration   100  ***
+ Current date: 2023-04-23   Time: 16:31:52
+ Loading geometry       100 from the inputted trajectory file
+ Generating xtb.xyz file...
+ Deleting xtbrestart
+ Running xtb: xtb xtb.xyz  --opt --gfn 1 --chrg 0 --uhf 0 --gbsa toluene > xtb.o
+ ut
+normal termination of xtb
+ Extracting energy and geometry from xtbopt.xyz
+ Energy =   -948.29587308 Hartree
+ Writing the converged geometry and energy to isomers.xyz
+ Wall clock time elapsed for calculating this configuration:    1174 s
+ Deleting charges energy wbo xtbopt.* .xtboptok xtb.out xtb.xyz xtbrestart g98*.
+ out tmpxx vibspectrum xtb_normalmodes hessian .tmpxtbmodef xtbhess.coord xtbtop
+ o.mol
+ 
+ Running finished!
+ All calculations totally took up wall clock time    190671 s (  52.96 hours)
+
+ Energy and geometry of all successful configurations have been collectively outputted to isomers.xyz in current folder.
+ In this file, the value after "Frame:" is the frame index in the isomers.xyz, "Step:" is the step number in this time of molclus execution, "Geom:" is geometry index in the inputted trajectory file
+

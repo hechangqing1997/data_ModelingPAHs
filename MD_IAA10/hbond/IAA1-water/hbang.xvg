@@ -1,0 +1,47 @@
+# This file was created Fri Jun  2 19:07:57 2023
+# Created by:
+#                      :-) GROMACS - gmx hbond, 2018.8 (-:
+# 
+# Executable:   /public3/home/sc51865/new/gromacs-2018.8/gromacs-install/bin/gmx
+# Data prefix:  /public3/home/sc51865/new/gromacs-2018.8/gromacs-install
+# Working dir:  /public3/home/sc51865/IAAmodeling_emulsion/IAA10
+# Command line:
+#   gmx hbond -f prod.xtc -s prod.tpr -n system.ndx -dist -ang -life -nhbdist -nomerge -hbn -b 500
+# gmx hbond is part of G R O M A C S:
+#
+# Giant Rising Ordinary Mutants for A Clerical Setup
+#
+@    title "Hydrogen Bond Distribution"
+@    xaxis  label "Hydrogen - Donor - Acceptor Angle (\SO\N)"
+@    yaxis  label ""
+@TYPE xy
+       0.5 0.00404524
+       1.5  0.0118111
+       2.5  0.0193949
+       3.5  0.0260587
+       4.5  0.0322157
+       5.5  0.0381378
+       6.5  0.0425369
+       7.5  0.0458989
+       8.5  0.0483872
+       9.5  0.0499508
+      10.5  0.0502037
+      11.5   0.050616
+      12.5  0.0501659
+      13.5  0.0481428
+      14.5  0.0467406
+      15.5  0.0445335
+      16.5  0.0426001
+      17.5   0.039941
+      18.5  0.0373782
+      19.5  0.0347106
+      20.5  0.0323789
+      21.5  0.0306267
+      22.5   0.027827
+      23.5  0.0257699
+      24.5  0.0240488
+      25.5  0.0222861
+      26.5  0.0206244
+      27.5  0.0191769
+      28.5   0.017402
+      29.5  0.0163895

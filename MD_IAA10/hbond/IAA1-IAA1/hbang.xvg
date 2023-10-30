@@ -1,0 +1,47 @@
+# This file was created Fri Jun  2 17:31:18 2023
+# Created by:
+#                      :-) GROMACS - gmx hbond, 2018.8 (-:
+# 
+# Executable:   /public3/home/sc51865/new/gromacs-2018.8/gromacs-install/bin/gmx
+# Data prefix:  /public3/home/sc51865/new/gromacs-2018.8/gromacs-install
+# Working dir:  /public3/home/sc51865/IAAmodeling_emulsion/IAA10
+# Command line:
+#   gmx hbond -f prod.xtc -s prod.tpr -n system.ndx -dist -ang -life -nhbdist -nomerge -hbn -b 500
+# gmx hbond is part of G R O M A C S:
+#
+# Georgetown Riga Oslo Madrid Amsterdam Chisinau Stockholm
+#
+@    title "Hydrogen Bond Distribution"
+@    xaxis  label "Hydrogen - Donor - Acceptor Angle (\SO\N)"
+@    yaxis  label ""
+@TYPE xy
+       0.5 0.00350873
+       1.5  0.0103683
+       2.5  0.0174442
+       3.5  0.0232395
+       4.5  0.0283856
+       5.5  0.0340815
+       6.5  0.0380814
+       7.5  0.0413328
+       8.5  0.0440346
+       9.5   0.046362
+      10.5  0.0468474
+      11.5  0.0464381
+      12.5  0.0471573
+      13.5  0.0473269
+      14.5  0.0455082
+      15.5  0.0441398
+      16.5  0.0424907
+      17.5  0.0405726
+      18.5   0.038713
+      19.5  0.0361926
+      20.5  0.0345727
+      21.5  0.0325376
+      22.5  0.0312511
+      23.5  0.0297248
+      24.5  0.0278944
+      25.5  0.0265202
+      26.5  0.0251108
+      27.5  0.0239763
+      28.5   0.023719
+      29.5  0.0224676

@@ -1,0 +1,74 @@
+                      :-) GROMACS - gmx hbond, 2018.8 (-:
+
+                            GROMACS is written by:
+     Emile Apol      Rossen Apostolov      Paul Bauer     Herman J.C. Berendsen
+    Par Bjelkmar    Aldert van Buuren   Rudi van Drunen     Anton Feenstra  
+  Gerrit Groenhof    Aleksei Iupinov   Christoph Junghans   Anca Hamuraru   
+ Vincent Hindriksen Dimitrios Karkoulis    Peter Kasson        Jiri Kraus    
+  Carsten Kutzner      Per Larsson      Justin A. Lemkul    Viveca Lindahl  
+  Magnus Lundborg   Pieter Meulenhoff    Erik Marklund      Teemu Murtola   
+    Szilard Pall       Sander Pronk      Roland Schulz     Alexey Shvetsov  
+   Michael Shirts     Alfons Sijbers     Peter Tieleman    Teemu Virolainen 
+ Christian Wennberg    Maarten Wolf   
+                           and the project leaders:
+        Mark Abraham, Berk Hess, Erik Lindahl, and David van der Spoel
+
+Copyright (c) 1991-2000, University of Groningen, The Netherlands.
+Copyright (c) 2001-2017, The GROMACS development team at
+Uppsala University, Stockholm University and
+the Royal Institute of Technology, Sweden.
+check out http://www.gromacs.org for more information.
+
+GROMACS is free software; you can redistribute it and/or modify it
+under the terms of the GNU Lesser General Public License
+as published by the Free Software Foundation; either version 2.1
+of the License, or (at your option) any later version.
+
+GROMACS:      gmx hbond, version 2018.8
+Executable:   /public3/home/sc51865/new/gromacs-2018.8/gromacs-install/bin/gmx
+Data prefix:  /public3/home/sc51865/new/gromacs-2018.8/gromacs-install
+Working dir:  /public3/home/sc51865/IAAmodeling_emulsion/IAA10
+Command line:
+  gmx hbond -f prod.xtc -s prod.tpr -n system.ndx -dist -ang -life -nhbdist -nomerge -hbn -b 500
+
+Reading file prod.tpr, VERSION 2018.8 (single precision)
+Group     0 (         system) has 124690 elements
+Group     1 (       toluene1) has 27180 elements
+Group     2 (       toluene2) has 27180 elements
+Group     3 (          water) has 63990 elements
+Group     4 (           IAA1) has  3170 elements
+Group     5 (           IAA2) has  3170 elements
+Select a group: Select a group: Calculating hydrogen bonds in IAA1 (3170 atoms)
+Specify 2 groups to analyze:
+Selected 4: 'IAA1'
+Selected 4: 'IAA1'
+Found 30 donors and 140 acceptors
+Making hbmap structure...done.
+
+Will do grid-seach on 14x14x83 grid, rcut=0.35
+Frame loop parallelized with OpenMP using 64 threads.
+Reading frame       0 time    0.000   Reading frame       0 time  500.000   Reading frame       1 time  502.000   Reading frame       2 time  504.000   Reading frame       3 time  506.000   Reading frame       4 time  508.000   Reading frame       5 time  510.000   Reading frame       6 time  512.000   Reading frame       7 time  514.000   Reading frame       8 time  516.000   Reading frame       9 time  518.000   Reading frame      10 time  520.000   Reading frame      11 time  522.000   Reading frame      12 time  524.000   Reading frame      13 time  526.000   Reading frame      14 time  528.000   Reading frame      15 time  530.000   Reading frame      16 time  532.000   Reading frame      17 time  534.000   Reading frame      18 time  536.000   Reading frame      19 time  538.000   Reading frame      20 time  540.000   Reading frame      30 time  560.000   Reading frame      40 time  580.000   Reading frame      50 time  600.000   Reading frame      60 time  620.000   Reading frame      70 time  640.000   Reading frame      80 time  660.000   Reading frame      90 time  680.000   Reading frame     100 time  700.000   Reading frame     110 time  720.000   Reading frame     120 time  740.000   Reading frame     130 time  760.000   Reading frame     140 time  780.000   Reading frame     150 time  800.000   Reading frame     160 time  820.000   Reading frame     170 time  840.000   Reading frame     180 time  860.000   Reading frame     190 time  880.000   Reading frame     200 time  900.000   Reading frame     300 time 1100.000   Reading frame     400 time 1300.000   Reading frame     500 time 1500.000   Reading frame     600 time 1700.000   Reading frame     700 time 1900.000   Reading frame     800 time 2100.000   Reading frame     900 time 2300.000   Reading frame    1000 time 2500.000   Reading frame    1100 time 2700.000   Reading frame    1200 time 2900.000   Reading frame    1300 time 3100.000   Reading frame    1400 time 3300.000   Reading frame    1500 time 3500.000   Reading frame    1600 time 3700.000   Reading frame    1700 time 3900.000   Reading frame    1800 time 4100.000   Reading frame    1900 time 4300.000   Reading frame    2000 time 4500.000   Reading frame    3000 time 6500.000   Reading frame    4000 time 8500.000   Reading frame    5000 time 10500.000   Reading frame    6000 time 12500.000   Reading frame    7000 time 14500.000   Reading frame    8000 time 16500.000   Reading frame    9000 time 18500.000   Reading frame   10000 time 20500.000   Reading frame   11000 time 22500.000   Reading frame   12000 time 24500.000   Reading frame   13000 time 26500.000   Reading frame   14000 time 28500.000   Reading frame   15000 time 30500.000   Reading frame   16000 time 32500.000   Reading frame   17000 time 34500.000   Reading frame   18000 time 36500.000   Reading frame   19000 time 38500.000   Reading frame   20000 time 40500.000   Reading frame   21000 time 42500.000   Reading frame   22000 time 44500.000   Reading frame   23000 time 46500.000   Reading frame   24000 time 48500.000   
+Found 101 different hydrogen bonds in trajectory
+Found 125 different atom-pairs within hydrogen bonding distance
+Average number of hbonds per timeframe 6.909 out of 2100 possible
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+D. van der Spoel, P. J. van Maaren, P. Larsson and N. Timneanu
+Thermodynamics of hydrogen bonding in hydrophilic and hydrophobic media
+J. Phys. Chem. B 110 (2006) pp. 4393-4398
+-------- -------- --- Thank You --- -------- --------
+
+
+HB lifetime = 11.21 ps
+Note that the lifetime obtained in this manner is close to useless
+Use the -ac option instead and check the Forward lifetime
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+D. van der Spoel, P. J. van Maaren, P. Larsson and N. Timneanu
+Thermodynamics of hydrogen bonding in hydrophilic and hydrophobic media
+J. Phys. Chem. B 110 (2006) pp. 4393-4398
+-------- -------- --- Thank You --- -------- --------
+
+
+GROMACS reminds you: "In science it often happens that scientists say, 'You know that's a really good argument; my position is mistaken,' and then they would actually change their minds and you never hear that old view from them again. They really do it. It doesn't happen as often as it should, because scientists are human and change is sometimes painful. But it happens every day. I cannot recall the last time something like that happened in politics or religion." (Carl Sagan)
+

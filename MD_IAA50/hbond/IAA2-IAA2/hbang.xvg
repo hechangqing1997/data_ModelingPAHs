@@ -1,0 +1,47 @@
+# This file was created Sat Jun  3 16:46:43 2023
+# Created by:
+#                      :-) GROMACS - gmx hbond, 2018.8 (-:
+# 
+# Executable:   /public3/home/sc51865/new/gromacs-2018.8/gromacs-install/bin/gmx
+# Data prefix:  /public3/home/sc51865/new/gromacs-2018.8/gromacs-install
+# Working dir:  /public3/home/sc51865/IAAmodeling_emulsion/IAA50_2
+# Command line:
+#   gmx hbond -f prod.xtc -s prod.tpr -n system.ndx -dist -ang -life -nhbdist -nomerge -hbn -b 500
+# gmx hbond is part of G R O M A C S:
+#
+# Gallium Rubidium Oxygen Manganese Argon Carbon Silicon
+#
+@    title "Hydrogen Bond Distribution"
+@    xaxis  label "Hydrogen - Donor - Acceptor Angle (\SO\N)"
+@    yaxis  label ""
+@TYPE xy
+       0.5 0.00359808
+       1.5  0.0103231
+       2.5  0.0170748
+       3.5  0.0232394
+       4.5  0.0288625
+       5.5  0.0342482
+       6.5  0.0383556
+       7.5  0.0418269
+       8.5   0.044385
+       9.5  0.0463298
+      10.5  0.0473019
+      11.5  0.0485137
+      12.5   0.048319
+      13.5  0.0478043
+      14.5  0.0466666
+      15.5  0.0450455
+      16.5  0.0433159
+      17.5  0.0414543
+      18.5  0.0396651
+      19.5  0.0375278
+      20.5  0.0349377
+      21.5  0.0330585
+      22.5   0.031022
+      23.5  0.0290412
+      24.5  0.0271719
+      25.5   0.025298
+      26.5  0.0237609
+      27.5  0.0220428
+      28.5  0.0204606
+      29.5  0.0193488
